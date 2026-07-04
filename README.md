@@ -1,40 +1,60 @@
-# Smart Healthcare Monitoring System
+# 🏥 Smart Healthcare Monitoring System
 
-## Overview
+A frontend dashboard for real-time health monitoring, built to visualize patient vitals and healthcare data in a clean, easy-to-read interface.
 
-A healthcare monitoring dashboard that tracks patient health metrics in real-time.
+---
 
-## Features
+## 📌 About the Project
 
-- Heart Rate Monitoring
+This project provides a web-based dashboard that displays health monitoring data such as vitals, alerts, and patient status. It focuses on presenting critical healthcare information in a user-friendly format for quick interpretation by caregivers or medical staff.
 
-- Blood Pressure Tracking
+---
 
-- Emergency Alerts
+## ✨ Features
 
-- Patient Dashboard
+- Real-time-style dashboard layout for health metrics
+- Clean, responsive UI for easy monitoring
+- Visual indicators for patient status/alerts
+- Organized sections for different vital parameters
 
-## Technologies Used
+---
 
-- React
+## 🛠️ Tech Stack
 
-- Vite
+- **Frontend:** HTML, CSS, JavaScript
 
-- JavaScript
+---
 
-- CSS
+## 🚀 How to Run
 
-## Live Demo
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Keerthana1207-coder/smart-healthcare-monitoring.git
+   ```
+2. Navigate to the project folder
+   ```bash
+   cd smart-healthcare-monitoring
+   ```
+3. Open `index.html` in your browser
+   
+   (No build steps or dependencies needed — it's a pure frontend project)
 
-https://smart-healthcare-monitoring-system.vercel.app/ 
+---
 
-## Screenshots
+## 📸 Screenshots
 
-<img width="1920" height="1049" alt="Smart Healthcare Monitoring Dashboard" src="https://github.com/user-attachments/assets/315e5a03-5ffd-46a5-a81f-4dbd0f7ddaa4" />
+<img width="1920" height="1049" alt="Smart Healthcare Monitoring Dashboard" src="https://github.com/user-attachments/assets/9d666563-4eeb-48d8-8d70-474c928bba58" />
 
+---
 
-## Future Scope
+## 🔗 Live Demo
 
-- IoT Integration
+https://smart-healthcare-monitoring-system.vercel.app/
 
-- AI-based Health Prediction 
+---
+
+## 👩‍💻 Author
+
+**Keerthana P**
+- LinkedIn: [linkedin.com/in/keerthana-p-ece](https://www.linkedin.com/in/keerthana-p-ece)
+- Portfolio: [keerthanap-portfolio.vercel.app](https://keerthanap-portfolio.vercel.app)
